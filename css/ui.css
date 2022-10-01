@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+*{
+    margin: auto;
+    z-index: 0;
+
+    /* disable selection */
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+select, a{
+    color: black;
+}
+.dashedTop{
+    border-top: 1px dashed lightgray;
+}
+.flexCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+html, body{
+    margin: 0;
+    width: 100%;
+}
+body{
+    max-height: 100vh;
+    background-color: #eaeceb;
+}
+main{
+    margin-top: 130px; /*rimettere a 20 vh per aggiungere il banner*/
+    height: 80vh;
+    width: 94%;
+}
+
+.leftPart, .rightPart{
+    width: 40%;
+    height: 100%;
+    
+}
+
+
+.vediTuttiGliAlgoritmiContainer{
+    position: absolute;
+    width: 20vw;
+    bottom: 30px;
+    left: 40vw;
+}
+
+.vediTuttiAlgoritmi{
+    color: black;
+    font-size: 18px;
+}
+
+.blueShadow{
+    box-shadow: blue 0px 0px 10px 1px;
+}
+.redShadow{
+    box-shadow: red 0px 0px 10px 1px;
+}
+.purpleShadow{
+    box-shadow: purple 0px 0px 10px 1px;
+    
+}
+.greyShadow{
+    box-shadow: grey 0px 0px 10px 1px;
+}
+
+.redColor{
+    color: red;
+}
+.rotateCenterRight{
+    transform-origin: center;
+    animation: linear 0.5s rotateRight;
+}
+.rotateCenterLeft{
+    transform-origin: center;
+    animation: linear 0.5s rotateLeft;
+}
+
+.dirittiAutore{
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
+.dirittiAutore p{
+    font-size: 10px;
+}
+
+@keyframes rotateRight{
+    0%{
+        transform: rotate(0deg);
+    }
+    25%{
+        transform: rotate(90deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    75%{
+        transform: rotate(270deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+@keyframes rotateLeft{
+    0%{
+        transform: rotate(0deg);
+    }
+    25%{
+        transform: rotate(-90deg);
+    }
+    50%{
+        transform: rotate(-180deg);
+    }
+    75%{
+        transform: rotate(-270deg);
+    }
+    100%{
+        transform: rotate(-360deg);
+    }
+}

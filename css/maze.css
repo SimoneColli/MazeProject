@@ -1,0 +1,114 @@
+.mazeContainer{
+    width: 100%;
+    height: 100%;
+}
+.maze{
+    display: grid;
+    /* grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr); */
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 720px;
+    height: 720px;
+}
+.cell{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.bushImg, .cloudImg, .wallImg{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.bushImg{
+    transform: scaleY(1.2);
+}
+.rotated{
+    transform: rotate(90deg);
+}
+.flipped{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.playerImg{
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+}
+.robotImg{
+    height: 100%;
+    width: 100%;
+    transform: scale(0.9);
+}
+.bacterialImg{
+    height: 100%;
+    width: 100%;
+    transform: scale(1.6);
+}
+.mazeStart, .mazeEnd{
+    background-image: url("./../sources/portaDoppia.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.scaleAnimationClass{
+    animation: infinite linear alternate 1s scaleAnimation;
+}
+
+@keyframes scaleAnimation{
+    0%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1.5);
+    }
+}
+
+@keyframes visit{
+    0%{
+        border-radius: 45%;
+        background-color: aquamarine;
+    }
+    25%{
+        border-radius: 40%;
+        /* background-color: lightskyblue; */
+    }
+    50%{
+        border-radius: 35%;
+        /* background-color: aqua; */
+    }
+    75%{
+        border-radius: 30%;
+        background-color: lightblue;
+    }
+    100%{
+        border-radius: 30%;
+        background-color: lightseagreen;
+    }
+}
+@keyframes path{
+    0%{
+        border-radius: 40%;
+        background-color: blue;
+    }
+    50%{
+        border-radius: 35%;
+    }
+    100%{
+        border-radius: 30%;
+        background-color: darkblue;
+    }
+}
+.visiting{
+    border-radius: 30%;
+    background-color: lightseagreen;
+    animation: visit 3s linear;
+}
+.path{
+    background-color: darkblue;
+    animation: path 3s linear;
+}

@@ -1,0 +1,45 @@
+
+/* 
+##     ## ########  ######   ######     ###     ######   ########  ######  
+###   ### ##       ##    ## ##    ##   ## ##   ##    ##  ##       ##    ## 
+#### #### ##       ##       ##        ##   ##  ##        ##       ##       
+## ### ## ######    ######   ######  ##     ## ##   #### ######    ######  
+##     ## ##             ##       ## ######### ##    ##  ##             ## 
+##     ## ##       ##    ## ##    ## ##     ## ##    ##  ##       ##    ## 
+##     ## ########  ######   ######  ##     ##  ######   ########  ######  
+*/
+
+.messageStartEnd{
+    display: none;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    min-width: 30%;
+    min-height: 30%;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px);
+    z-index: 100;
+}
+.messageStartEnd h1{
+    text-align: center;
+}
+.startMessage, .loseMessage, .winMessage, .drawMessage, .vsMessage{
+    font-size: 80px;
+    font-style: italic;
+}
+.startMessage{
+    color: black;
+}
+.loseMessage{
+    color: red;
+}
+.winMessage{
+    color: green;
+}
+.drawMessage{
+    color: orangered;
+}
+.vsMessage{
+    color: black;
+}

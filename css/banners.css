@@ -1,0 +1,47 @@
+.banner{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* height: 124px; */
+    flex-direction: column;
+    color: white;
+}
+.bannerTop{
+    background-color: rgb(68,114,196);
+    height: 90px;
+    width: 100%;
+    flex-direction: row;
+}
+.bannerBottom{
+    width: 100%;
+    height: 26px;
+    background-color: rgb(109,176,63);
+}
+.logoUnipr{
+    height: 100%;
+    width: 10%;
+    left: 20px;
+    position: absolute;
+}
+.logoUnipr img{
+    height: 100%;
+    width: 100%;
+}
+.infoText{
+    margin-top: 0;
+    flex-direction: row;
+    height: 80%;
+    /* margin-right: 100px; */
+}
+
+.infoText1{
+    padding-top: 25px;
+    font-size: 40px;
+    height: 60px;
+}
+.infoText2{
+    font-style: italic;
+    margin-left: 20px;
+    font-size: 60px;
+    height: 60px;
+}

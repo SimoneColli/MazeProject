@@ -1,0 +1,87 @@
+/* 
+ #######                     
+    #    ######  ####  ##### 
+    #    #      #        #   
+    #    #####   ####    #   
+    #    #           #   #   
+    #    #      #    #   #   
+    #    ######  ####    # 
+*/
+
+.afterTestInfo{
+    display: none;
+    position: absolute;
+    top: 20vh;
+    left: 30%;
+    width: 40%;
+    height: 40vh;
+    border-radius: 20px;
+    background-color: white;
+    z-index: 100;
+    
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 10px 1px;
+    flex-direction: column;
+}
+.afterTestInfosLine{
+    margin-top: 4%;
+    width: 100%;
+    flex-direction: row;
+    margin-bottom: 5%;
+}
+.closeButtonAfterTest{
+    border: none;
+    border-radius: 50%;
+    background-color: transparent;
+    margin-right: 2%;
+    font-size: 24px;
+    color: red;
+    font-weight: bold;
+    transition: all linear 0.4s;
+}
+.closeButtonAfterTest:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+.afterTestInfosLine > h1{
+    margin-left: 0;
+    margin-bottom: 0;
+}
+.afterTestInfosLine > ion-icon{
+    margin-left: 5%;
+    font-size: 24px;
+    margin-right: 10px;
+}
+.firstResultPanel, .secondResultPanel{
+    width: 90%;
+    height: 10vh;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    flex-direction: row;
+    background-color: #eaeceb;
+    border-radius: 10px;
+}
+.secondResultPanel{
+    margin-bottom: auto;
+}
+.firstAlgoCellName, .secondAlgoCellName{
+    height: 100%;
+    font-weight: bolder;
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+}
+.stepsPanel, .pathPanel{
+    height: 100%;
+    width: 30%;
+    flex-direction: column;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+    text-align: center;
+}
+.stepsPanel p, .pathPanel p{
+    margin-top: 10px;
+}
+.firstSteps, .secondSteps, .firstPath, .secondPath{
+    font-weight: normal;
+}

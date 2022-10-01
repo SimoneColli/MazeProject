@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Maze Path Finder</title>
+        <link rel="icon" type="image/ico" href="./icons/logo.png">
+        
+        <link rel="stylesheet" href="./css/ui.css">
+        <link rel="stylesheet" href="./css/maze.css">
+        <link rel="stylesheet" href="./css/controls.css">
+        <link rel="stylesheet" href="./css/terminal.css">
+        <link rel="stylesheet" href="./css/infos.css">
+        <link rel="stylesheet" href="./css/messages.css">
+        <link rel="stylesheet" href="./css/keys.css">
+        <link rel="stylesheet" href="./css/test.css">
+        <link rel="stylesheet" href="./css/responsive.css">
+        <link rel="stylesheet" href="./css/banners.css">
+
+    </head>
+
+    <body>
+
+        <!-- 
+
+            
+        -->
+        <div class="banner flexCenter">
+            <div class="bannerTop flexCenter">
+                <div class="logoUnipr">
+                    <a href="https://corsi.unipr.it/cdl-info" target="_blank">
+                        <img src="./icons/logo.svg" alt="logo unipr">
+                    </a>
+                </div>
+                <div class="infoText flexCenter">
+                    <p class="infoText1">
+                        Corso di Laurea in 
+                    </p>
+                    <p class="infoText2">
+                        Informatica
+                    </p>
+                </div>
+            </div>
+            <div class="bannerBottom flexCenter">
+                <p>
+                    DIPARTIMENTO SCIENZE MATEMATICHE, FISICHE E INFORMATICHE
+                </p>
+            </div>
+        </div>
+        <!-- 
+            #### ##    ## ########  #######   ######  
+             ##  ###   ## ##       ##     ## ##    ## 
+             ##  ####  ## ##       ##     ## ##       
+             ##  ## ## ## ######   ##     ##  ######  
+             ##  ##  #### ##       ##     ##       ## 
+             ##  ##   ### ##       ##     ## ##    ## 
+            #### ##    ## ##        #######   ######  
+
+        -->
+        <div class="rotateNotification flexCenter">
+            <ion-icon name="phone-landscape-outline"></ion-icon>
+        </div>
+
+        <section class="infoOnLoad flexCenter">
+            <div class="infoPage page0 flexCenter">
+
+                <div class="titleLine flexCenter">
+                    <ion-icon name="information-circle-outline" style="color: #8b1b26;"></ion-icon>
+                    <h1>Informazioni</h1>
+                    <button class="closeButton flexCenter">
+                        <ion-icon name="close-circle-outline"></ion-icon>
+                    </button>
+                </div>
+                
+                <h2>
+                    Legenda
+                </h2>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter" style="color: #FD5602;">
+                        <ion-icon name="eye-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Giocatore vs Algoritmo</b>
+                        <br>
+                        Modalità di gioco facile per poter provare a sfidare il computer in una gara di velocità dopo aver osservato l'algoritmo in azione
+                    </p>
+                </div>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter" style="color: #434240;" >
+                        <ion-icon name="eye-off-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Giocatore vs Algoritmo+</b>
+                        <br>
+                        Modalità di gioco per sfidare il computer in tempo reale, senza vedere le celle del labirinto
+                    </p>
+                </div>
+
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter" style="color: purple;">
+                        <ion-icon name="trophy-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Algoritmo vs Algoritmo</b>
+                        <br>
+                        Osserva due algoritmi, a tua scelta, in una sfida tra loro 
+                        e scopri le differenze di numero di passi dell'algoritmo e 
+                        lunghezza del percorso trovato
+                    </p>
+                </div>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter" style="color: #BF8915;">
+                        <ion-icon name="expand-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Dimensioni</b>
+                        <br>
+                        I labirinti sono disponibili in varie dimensioni...
+                        <br>
+                        da 3x3 a 40x40, sta a te decidere quando vuoi complicare la sfida
+                    </p>
+                </div>
+                
+                <div class="infoMoveButtons flexCenter">
+                    
+                    <button class="infoNext">
+                        Successivo
+                    </button>
+                </div>
+                
+                
+            </div>
+            <div class="infoPage page1 flexCenter">
+                <div class="titleLine flexCenter">
+                    <ion-icon name="information-circle-outline" style="color: #8b1b26;"></ion-icon>
+                    <h1>Informazioni</h1>
+                    <button class="closeButton flexCenter">
+                        <ion-icon name="close-circle-outline"></ion-icon>
+                    </button>
+                </div>
+                <h2>
+                    Legenda
+                </h2>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter">
+                        <ion-icon name="hardware-chip-outline" style="color: #25A1B3;"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Algoritmi</b>
+                        <br>
+                        Scegli l'algoritmo che vuoi sfidare, tutte le rispettive informazioni 
+                        sono visualizzabili cliccando sulla scritta a fondo pagina "<u>Impara di più</u>"
+                    </p>
+                </div>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter" style="color: blue;">
+                        <ion-icon name="shuffle-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Genera un labirinto</b>
+                        <br>
+                        Dopo aver terminato una partita potrai generare 
+                        un nuovo labirinto per giocare ancora
+                    </p>
+                </div>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter" style="color: green;">
+                        <ion-icon name="play-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Inizia la partita</b>
+                        <br>
+                        Clicca per iniziare la partita
+                    </p>
+                </div>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter" style="color: red;">
+                        <ion-icon name="stop-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Termina la partita</b>
+                        <br>
+                        Clicca per terminare la partita
+                    </p>
+                </div>
+                
+                <br>
+                
+                <div class="infoMoveButtons flexCenter">
+                    <button class="infoPrev">
+                        Precedente
+                    </button>
+                    <button class="infoNext">
+                        Successivo
+                    </button>
+                </div>
+                
+            </div>
+            <div class="infoPage page2 flexCenter">
+                <div class="titleLine flexCenter">
+                    <ion-icon name="information-circle-outline" style="color: #8b1b26;"></ion-icon>
+                    <h1>Informazioni</h1>
+                    <button class="closeButton flexCenter">
+                        <ion-icon name="close-circle-outline"></ion-icon>
+                    </button>
+                </div>
+                <h2>
+                    Legenda
+                </h2>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter">
+                        <ion-icon name="chevron-back-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Torna al menu delle modalità</b>
+                        <br>
+                        Clicca per tornare alla scelta delle modalità
+                    </p>
+                </div>
+                <div class="flexCenter voceInfo">
+                    <div class="iconContainerLegenda flexCenter" style="color: #8b1b26;">
+                        <ion-icon name="information-circle-outline"></ion-icon>
+                    </div>
+                    <p>
+                        <b>Informazioni</b>
+                        <br>
+                        Clicca per rileggere le informazioni
+                    </p>
+                </div>
+                <h1 class="responsiveToHide">
+                    Buon divertimento!!!
+                </h1>
+                
+                <div class="infoMoveButtons flexCenter">
+                    <button class="infoPrev">
+                        Precedente
+                    </button>
+                    
+                </div>
+            </div>
+
+        </section>
+        <!-- 
+               ###    ######## ######## ######## ########     ######## ########  ######  ######## 
+              ## ##   ##          ##    ##       ##     ##       ##    ##       ##    ##    ##    
+             ##   ##  ##          ##    ##       ##     ##       ##    ##       ##          ##    
+            ##     ## ######      ##    ######   ########        ##    ######    ######     ##    
+            ######### ##          ##    ##       ##   ##         ##    ##             ##    ##    
+            ##     ## ##          ##    ##       ##    ##        ##    ##       ##    ##    ##    
+            ##     ## ##          ##    ######## ##     ##       ##    ########  ######     ##    
+        -->
+        <section class="afterTestInfo flexCenter">
+            
+            <div class="afterTestInfosLine flexCenter">
+                <ion-icon name="trophy-outline" style="color: purple;"></ion-icon>
+                <h1>Risultati sfida</h1>
+                <button class="closeButtonAfterTest flexCenter" id="closeButtonAfterTest">
+                    <ion-icon name="close-circle-outline"></ion-icon>
+                </button>
+            </div>
+            
+            <div class="firstResultPanel flexCenter">
+                <div class="firstAlgoCellName flexCenter">
+                    <!-- algo name -->
+                    <p></p>
+                </div>
+                <div class="stepsPanel">
+                    <p>
+                        Passi algoritmo
+                    </p>
+                    <p class="firstSteps flexCenter">
+
+                    </p>
+                </div>
+                <div class="pathPanel">
+                    <p>Lunghezza percorso</p>
+                    <p class="firstPath flexCenter">
+                        <!-- firstPath length-->
+                    </p>
+                </div>
+            </div>
+            
+            <div class="secondResultPanel flexCenter">
+                <div class="secondAlgoCellName flexCenter">
+                    <!-- algor name -->
+                    <p></p>
+                </div>
+                <div class="stepsPanel">
+                    <p>Passi algoritmo</p>
+                    <p class="secondSteps flexCenter">
+                    
+                    </p>
+                </div>
+                <div class="pathPanel">
+                    <p>Lunghezza percorso</p>
+                    <p class="secondPath flexCenter">
+                        <!-- secondPath length-->
+                    </p>
+                </div>
+            </div>
+        </section>
+        <section class="messageStartEnd flexCenter">
+            <!-- <h1>Via</h1> -->
+        </section>
+        <!-- 
+            ##     ##    ###    #### ##    ## 
+            ###   ###   ## ##    ##  ###   ## 
+            #### ####  ##   ##   ##  ####  ## 
+            ## ### ## ##     ##  ##  ## ## ## 
+            ##     ## #########  ##  ##  #### 
+            ##     ## ##     ##  ##  ##   ### 
+            ##     ## ##     ## #### ##    ## 
+        -->
+
+        <main class="flexCenter">
+            
+            <!-- 
+                ##       ######## ######## ######## 
+                ##       ##       ##          ##    
+                ##       ##       ##          ##    
+                ##       ######   ######      ##    
+                ##       ##       ##          ##    
+                ##       ##       ##          ##    
+                ######## ######## ##          ##  
+            -->
+            <section class="flexCenter leftPart">
+                <div class="mazeContainer flexCenter">
+                    <div class="maze AImaze">
+                        <!-- <div class="cell"></div>-->
+                    </div>
+                </div>
+
+                
+            </section>
+            <!-- 
+                 #####                                                         
+                #     #   ####   #    #  #####  #####    ####   #        ####  
+                #        #    #  ##   #    #    #    #  #    #  #       #      
+                #        #    #  # #  #    #    #    #  #    #  #        ####  
+                #        #    #  #  # #    #    #####   #    #  #            # 
+                #     #  #    #  #   ##    #    #   #   #    #  #       #    # 
+                 #####    ####   #    #    #    #    #   ####   ######   ####  
+            -->
+
+            <div class="menuMobile flexCenter" onclick="switchMenu()">
+                <ion-icon name="grid-outline"></ion-icon>
+            </div>
+            <div class="controls flexCenter">
+                <div class="switchModalita flexCenter">
+                    
+                    <button class="modalita_bottone modalita_scoperta flexCenter" style="color: #FD5602;" id="modalita_scoperta">
+                        <ion-icon name="eye-outline"></ion-icon>
+                    </button>
+                    <button class="modalita_bottone modalita_coperta flexCenter" style="color: #434240;" id="modalita_coperta">
+                        <ion-icon name="eye-off-outline"></ion-icon>
+                    </button>
+                    <button class="modalita_bottone modalita_sfida flexCenter" style="color: purple;" id="modalita_sfida">
+                        <ion-icon name="trophy-outline"></ion-icon>
+                    </button>
+                </div>
+
+                <div class="controlliScelti flexCenter outOfGame">
+
+                    <!-- controlli per la partita normale -->
+                    <div class="modalita modalitaNormale flexCenter">
+                        <div class="sizeLine flexCenter">
+                            <ion-icon name="expand-outline" class="expandIcon"></ion-icon>
+                            <select id="dim1" name="dim1" class="dim">
+                                <option value="3">3</option>
+                                <option value="5">5</option>
+                                <option value="10">10</option>
+                                <option value="15" selected>15</option>
+                                <option value="20">20</option>
+                                <option value="25">25</option>
+                                <option value="30">30</option>
+                                <option value="35">35</option>
+                                <option value="40">40</option>
+                                
+                            </select>
+                        </div>
+
+                        <div class="sizeLine flexCenter">
+                            <ion-icon name="hardware-chip-outline" class="algoritmIcon"></ion-icon>
+                            <select id="algoritm1" name="algoritm1" class="algoritm">
+                                <option value="bfs" selected>BFS</option>
+                                <option value="dfs">DFS</option>
+                                <option value="aStar">A*</option>
+                                <option value="aStarFaster">A* +</option>
+                            </select>
+                        </div>
+                        <div class="controlsSeparator">
+
+                        </div>
+                        <div class="sizeLine flexCenter">
+                            <button class="generateButton flexCenter" id="generateButton">
+                                <ion-icon name="shuffle-outline"></ion-icon>
+                            </button>
+                            <button class="playButton flexCenter" id="playButton">
+                                <ion-icon name="play-outline"></ion-icon>
+                            </button>
+                        </div>
+                    </div>
+
+
+
+                    <!-- controlli per la partita nascosta -->
+                    <div class="modalita modalitaNascosta flexCenter">
+                        <div class="sizeLine flexCenter">
+                            <ion-icon name="expand-outline" class="expandIcon"></ion-icon>
+                            <select id="dim2" name="dim2" class="dim">
+                                <option value="3">3</option>
+                                <option value="5">5</option>
+                                <option value="10">10</option>
+                                <option value="15" selected>15</option>
+                                <option value="20">20</option>
+                                <option value="25">25</option>
+                                <option value="30">30</option>
+                                <option value="35">35</option>
+                                <option value="40">40</option>
+                                
+                            </select>
+                        </div>
+
+                        <div class="sizeLine flexCenter">
+                            <ion-icon name="hardware-chip-outline" class="algoritmIcon"></ion-icon>
+                            <select id="algoritm2" name="algoritm2" class="algoritm">
+                                <option value="bfs" selected>BFS</option>
+                                <option value="dfs">DFS</option>
+                                <option value="aStar">A*</option>
+                                <option value="aStarFaster">A* +</option>
+                            </select>
+                        </div>
+                        <div class="controlsSeparator">
+                            
+                        </div>
+                        <div class="sizeLine flexCenter">
+                            <button class="generateButton flexCenter" id="generateButton2">
+                                <ion-icon name="shuffle-outline"></ion-icon>
+                            </button>
+                            <button class="playButton flexCenter" id="playButton2">
+                                <ion-icon name="play-outline"></ion-icon>
+                            </button>
+                        </div>
+                        <button class="switchMode flexCenter" id="switchMode"></button>
+                    </div>
+
+
+
+
+
+                    <!-- controlli per la sfida -->
+                    <div class="modalita modalitaSfida flexCenter">
+                        <div class="sizeLine flexCenter">
+                            <ion-icon name="expand-outline" class="expandIcon"></ion-icon>
+                            <select id="dimTest" name="dimTest" class="dimTest">
+                                <option value="3">3</option>
+                                <option value="5">5</option>
+                                <option value="10">10</option>
+                                <option value="15" selected>15</option>
+                                <option value="20">20</option>
+                                <option value="25">25</option>
+                                <option value="30">30</option>
+                                <option value="35">35</option>
+                                <option value="40">40</option>
+                                
+                            </select>
+                        </div>
+                        <div class="sizeLine flexCenter">
+                            <select name="vs1" id="vs1" class="vs1">
+                                <option value="bfs" selected>BFS</option>
+                                <option value="dfs">DFS</option>
+                                <option value="aStar">A*</option>
+                                <option value="aStarFaster">A* +</option>
+                            </select>
+                            <!-- <ion-icon name="hardware-chip-outline" class="vs algoritmIcon"></ion-icon> -->
+                            <p class="vs">vs</p>
+                            <select name="vs2" id="vs2" class="vs2">
+                                <option value="bfs">BFS</option>
+                                <option value="dfs" selected>DFS</option>
+                                <option value="aStar">A*</option>
+                                <option value="aStarFaster">A* +</option>
+                            </select>
+                            
+                        </div>
+                        <div class="sizeLine flexCenter">
+                            <button class="vsButton flexCenter" id="vsButton">
+                                <ion-icon name="trophy-outline"></ion-icon>
+                            </button>
+                            <button class="reloadButton flexCenter" id="reloadButton">
+                                <ion-icon name="stop-outline"></ion-icon>
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <button class="tornaAlleModalita flexCenter" id="tornaAlleModalita">
+                        <ion-icon name="chevron-back-outline"></ion-icon>
+                    </button>
+                </div>
+
+                <div class="flexCenter inGame">
+                    
+
+                    <div class="terminal flexCenter">
+                        <code></code>
+                    </div>
+                    <div class="keysContainer leftKeys">
+                        <div class="fakeKey"></div>
+                        <div class="key keyUp flexCenter">
+                            <ion-icon name="arrow-up"></ion-icon>
+                        </div>
+                        <div class="fakeKey"></div>
+                        <div class="key keyLeft flexCenter">
+                            <ion-icon name="arrow-back"></ion-icon>
+                        </div>
+                        <div class="key keyDown flexCenter">
+                            <ion-icon name="arrow-down"></ion-icon>
+                        </div>
+                        <div class="key keyRight flexCenter">
+                            <ion-icon name="arrow-forward"></ion-icon>
+                        </div>
+                    </div>
+
+                    <button class="stopButton flexCenter" id="stopButton">
+                        <ion-icon name="stop-outline"></ion-icon>
+                    </button>
+
+                    <div class="keysContainer rightKeys">
+                        <div class="fakeKey"></div>
+                        <div class="key keyUp flexCenter" onclick="moveUpClick()">
+                            <ion-icon name="arrow-up"></ion-icon>
+                        </div>
+                        <div class="fakeKey"></div>
+                        <div class="key keyLeft flexCenter" onclick="moveLeftClick()">
+                            <ion-icon name="arrow-back"></ion-icon>
+                        </div>
+                        <div class="key keyDown flexCenter" onclick="moveDownClick()">
+                            <ion-icon name="arrow-down"></ion-icon>
+                        </div>
+                        <div class="key keyRight flexCenter" onclick="moveRightClick()">
+                            <ion-icon name="arrow-forward"></ion-icon>
+                        </div>
+                    </div>
+                    
+                    
+                </div>
+            </div>
+            <!--
+                ########  ####  ######   ##     ## ######## 
+                ##     ##  ##  ##    ##  ##     ##    ##    
+                ##     ##  ##  ##        ##     ##    ##    
+                ########   ##  ##   #### #########    ##    
+                ##   ##    ##  ##    ##  ##     ##    ##    
+                ##    ##   ##  ##    ##  ##     ##    ##    
+                ##     ## ####  ######   ##     ##    ##    
+            -->
+
+            <section class="flexCenter rightPart">
+                <div class="mazeContainer flexCenter">
+                    <div class="maze userMaze">
+                        <!-- <div class="cell"></div>-->
+                    </div>
+                </div>
+                
+            </section>
+        </main>
+        <button class="infoOpener flexCenter" id="infoOpener" style="color: #8b1b26;">
+            <ion-icon name="information-circle-outline"></ion-icon>
+        </button>
+        
+        <div class="flexCenter vediTuttiGliAlgoritmiContainer">
+            <a href="./allAgoritms.html" class="vediTuttiAlgoritmi" target="_blank">
+                Impara di più
+            </a>
+        </div>
+        <button style="display: none;" id="playerCanMove"></button>
+        <button style="display: none;" id="playerWin"></button>
+        <button style="display: none;" id="computerWin"></button>
+        <button style="display: none;" id="vsEnd"></button>
+        
+
+        <div class="dirittiAutore flexCenter">
+            <p>© Simone Colli</p>
+        </div>
+        <!-- 
+             ######   ######  ########  #### ########  ########  ######  
+            ##    ## ##    ## ##     ##  ##  ##     ##    ##    ##    ## 
+            ##       ##       ##     ##  ##  ##     ##    ##    ##       
+             ######  ##       ########   ##  ########     ##     ######  
+                  ## ##       ##   ##    ##  ##           ##          ## 
+            ##    ## ##    ## ##    ##   ##  ##           ##    ##    ## 
+             ######   ######  ##     ## #### ##           ##     ######  
+        -->
+
+        <!-- icons -->
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+        <!-- jquery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+        <!-- js -->
+        
+        <script src="./script/Classes.js"></script>
+
+        <script src="./script/Core.js"></script>
+        
+    </body>
+</html>

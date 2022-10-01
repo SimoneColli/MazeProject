@@ -1,0 +1,698 @@
+.rotateNotification{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    background-color: #eaeceb;
+    font-size: 100px;
+    z-index: 10000;
+
+    animation: infinite ease-in-out 3s rotateAnimation;
+}
+
+.menuMobile{
+    position: absolute;
+    left: 40px;
+    bottom: 70px;
+    display: none;
+    font-size: 30px;
+    padding: 0;
+    height: 32px;
+    width: 32px;
+}
+.menuMobile:hover{
+    cursor: pointer;
+}
+
+.controlsSeparator{
+    display: none;
+    height: 100%;
+}
+
+@keyframes rotateAnimation{
+    0%{
+        transform: rotate(90deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+}
+@media only screen and (orientation: portrait){
+    body *{
+        visibility: hidden;
+    }
+    .rotateNotification{
+        display: flex;
+        visibility: visible;
+    }
+}
+
+
+
+@media only screen and (orientation: landscape){
+
+    
+    @media (min-width: 1340px) and (max-width: 1700px){
+        /* maze */
+        .maze{
+            width: 550px;
+            height: 550px;
+        }
+        /* controls */
+        
+        /* infos */
+        
+        /* keys */
+        .leftKeys{
+            width: 160px;
+            height: 100px;
+            grid-column-gap: 10px;
+            grid-row-gap: 10px;
+        }
+        .rightKeys{
+            width: 220px;
+            height: 140px;
+            grid-column-gap: 10px;
+            grid-row-gap: 10px;
+        }
+        .key{
+            border-width: 2px;
+            font-size: 16px;
+        }
+        /* messages */
+        /* terminal */
+        /* test */
+        /* ui */
+        main{
+            margin-top: 150px;
+        }
+    }
+
+    @media (min-width: 1024px) and (max-width: 1339px){
+        
+
+        
+        /* maze */
+        .mazeContainer{
+            margin-top: 50px;
+        }
+        .maze{
+            width: 400px;
+            height: 400px;
+        }
+        /* controls */
+        .menuMobile{
+            display: block;
+        }
+        
+        .voceInfoNoGrid{
+            display: none;
+            visibility: hidden;
+        }
+        .controls{
+            display: none;
+            position: absolute;
+            height: 180px;
+            bottom: 0;
+            z-index: 1000;
+            width: 70vw;
+            border-radius: 20px;
+            
+        }
+        .switchModalita, .controlliScelti{
+            flex-direction: row;
+        }
+        .switchModalita{
+            width: 80%;
+        }
+
+        .modalita_bottone, .tornaAlleModalita{
+            font-size: 26px;
+        }
+        .tornaAlleModalita{
+            width: 70px;
+            height: 70px;
+        }
+        
+        .modalita{
+            flex-direction: row;
+            width: 80%;
+            height: 100%;
+        }
+        .sizeLine{
+            flex-direction: row;
+            width: 33%;
+            height: 100%;
+        }
+
+
+        .dim, .algoritm{
+            width: 70px;
+            height: 70px;
+            font-size: 20px;
+        }
+        .generateButton, .playButton{
+            font-size: 25px;
+            font-weight: bold;
+        }
+        .disableButton{
+            font-size: 25px;
+        }
+        .testButton, .vsButton, .reloadButton, .stopButton{
+            font-size: 25px;
+        }
+
+        .controlsSeparator{
+            display: block;
+            width: 50px;
+        }
+
+        .inGame{
+            flex-direction: row;
+        }
+
+        
+        .dimTest, .vs1, .vs2{
+            width: 70px;
+            height: 70px;
+        }
+        .vs{
+            font-size: 40px;
+            margin-right: 5px;
+            margin-left: 5px;
+        }
+        /* infos */
+        .infoOnLoad{
+            top: 2vh;
+            width: 70vw;
+            left: 15vw;
+            height: 700px;
+        }
+        .infoPage{
+            width: 90%;
+            height: 90%;
+        }
+        .titleLine{
+            margin-top: 40px;
+            margin-bottom: 20px;
+        }
+        .closeButton{
+            margin-right: -24px;
+        }
+        .voceInfoNoGrid{
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        
+        
+        .titleLine > ion-icon{
+            margin-left: 10px;
+        }
+        .infoOnLoad h2{
+            margin-top: 10px;
+            width: 90%;
+            margin-left: 5%;
+        }
+        .page1 h1{
+            margin-top: 0;
+        }
+        .infoOpener{
+            left: 10px;
+            right: auto;
+            top: 150px;
+            bottom: auto;
+        }
+
+
+        /* keys */
+        
+        .rightKeys, .leftKeys{
+            width: 160px;
+            height: 100px;
+            grid-column-gap: 10px;
+            grid-row-gap: 10px;
+        }
+        .key{
+            border-width: 2px;
+            font-size: 16px;
+        }
+        
+        /* messages */
+        .messageStartEnd{
+            top: 30%;
+            background-color: rgba(255, 255, 255, 0.7);
+        }
+
+        .startMessage, .loseMessage, .winMessage, .drawMessage, .vsMessage{
+            font-size: 56px;
+        }
+        /* terminal */
+        .terminal{
+            width: 300px;
+            height: 120px;
+        }
+        .terminal code{
+            margin-left: 2%;
+            width: 100%;
+            font-size: 12px;
+        }
+        /* test */
+        
+        .firstAlgoCellName, .secondAlgoCellName{
+            font-size: 18px;
+        }
+        .stepsPanel, .pathPanel{
+            font-size: 14px;
+        }
+        
+        /* ui */
+        main{
+            margin-top: 0vh;
+        }
+        .vediTuttiGliAlgoritmiContainer{
+            right: 40px;
+            bottom: 20px;
+            left: auto;
+            width: auto;
+        }
+        .leftPart, .rightPart{
+            width: 50%;
+            height: 600px;
+            margin-top: 0;
+        }
+    }
+
+    @media (min-width: 426px) and (max-width: 1023px){
+        
+        .dirittiAutore{
+            left: 2px;
+            bottom: 2px;
+        }
+        .dirittiAutore p{
+            font-size: 8px;
+        }
+        .banner{
+            display: none;
+            visibility: hidden;
+        }
+        /* maze */
+        .maze{
+            width: 250px;
+            height: 250px;
+        }
+        /* controls */
+        .menuMobile{
+            display: block;
+            left: 14px;
+            bottom: 30px;
+            font-size: 14px;
+        }
+        
+        .controls{
+            display: none;
+            position: absolute;
+            height: 80px;
+            bottom: 20px;
+            z-index: 1000;
+            width: 70vw;
+            border-radius: 20px;
+        }
+        .switchModalita, .controlliScelti{
+            flex-direction: row;
+        }
+        .switchModalita{
+            width: 80%;
+        }
+
+        .modalita_bottone, .tornaAlleModalita{
+            font-size: 18px;
+            width: 50px;
+            height: 50px;
+        }
+        
+        
+        .modalita{
+            flex-direction: row;
+            width: 80%;
+            height: 100%;
+        }
+        .sizeLine{
+            flex-direction: row;
+            width: 33%;
+            height: 100%;
+        }
+        .sizeLine > ion-icon{
+            font-size: 30px;
+        }
+
+        .dim, .algoritm{
+            width: 50px;
+            height: 40px;
+            font-size: 12px;
+        }
+        .generateButton, .playButton{
+            font-size: 25px;
+            width: 50px;
+            height: 50px;
+            font-weight: bold;
+        }
+        .disableButton{
+            font-size: 25px;
+        }
+        
+        .testButton, .vsButton, .reloadButton, .stopButton{
+            font-size: 25px;
+            width: 50px;
+            height: 50px;
+        }
+
+        .controlsSeparator{
+            display: block;
+            width: 50px;
+            
+        }
+        .disableButton{
+            width: 50px;
+            height: 50px;
+        }
+        .inGame{
+            flex-direction: row;
+        }
+
+        .dimTest, .vs1, .vs2{
+            width: 50px;
+            height: 40px;
+            font-size: 12px;
+        }
+        .vs{
+            font-size: 20px;
+            margin-right: 5px;
+            margin-left: 5px;
+        }
+
+        /* infos */
+        .infoOnLoad{
+            top: 10vh;
+            width: 90vw;
+            height: 400px;
+            left: 5vw;
+            overflow-y: scroll;
+        }
+        
+        .infoPage{
+            height: 100%;
+            width: 90%;
+        }
+        .titleLine{
+            margin-top: 120px;
+            margin-bottom: 10px;
+            height: 100px;
+        }
+        
+        .titleLine > h1{
+            font-size: 18px;
+        }
+        .titleLine > ion-icon{
+            font-size: 20px;
+        }
+        .closeButton{
+            font-size: 20px;
+            margin-right: 24px;
+        }
+        
+        .voceInfoNoGrid{
+            display: none;
+            visibility: hidden;
+            margin: 0 0 0 0;
+        }
+        .infoNext, .infoPrev{
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        
+        .iconContainerLegenda{
+            font-size: 30px;
+        }
+        .infoOnLoad h2{
+            font-size: 16px;
+        }
+        .voceInfo p{
+            font-size: 12px;
+        }
+        .titleLine > ion-icon{
+            margin-left: 10px;
+        }
+        .infoOnLoad h2{
+            margin-top: 10px;
+            width: 90%;
+            margin-left: 5%;
+        }
+        .infoOpener{
+            left: 5px;
+            right: auto;
+            top: 14px;
+            bottom: auto;
+            font-size: 12px;
+        }
+        
+        /* keys */
+        .keysContainer{
+            margin-top: 2px;
+        }
+        .rightKeys, .leftKeys{
+            width: 100px;
+            height: 60px;
+            grid-column-gap: 10px;
+            grid-row-gap: 10px;
+        }
+        .key{
+            border-width: 2px;
+            font-size: 16px;
+        }
+        
+        /* messages */
+        .messageStartEnd{
+            top: 30%;
+            background-color: rgba(255, 255, 255, 0.7);
+        }
+
+        .startMessage, .loseMessage, .winMessage, .drawMessage, .vsMessage{
+            font-size: 30px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+        /* terminal */
+        .terminal{
+            width: 200px;
+            height: 80px;
+        }
+        .terminal code{
+            margin-left: 2%;
+            width: 100%;
+            font-size: 8px;
+        }
+        
+        /* test */
+        .afterTestInfo{
+            width: 60%;
+            left: 20%;
+            height: 60vh;
+        }
+        .afterTestInfosLine > h1{
+            font-size: 16px;
+        }
+        .afterTestInfosLine > ion-icon{
+            font-size: 18px;
+            margin-bottom: 0;
+        }
+        .closeButtonAfterTest{
+            font-size: 18px;
+        }
+        .firstResultPanel, .secondResultPanel{
+            height: 16vh;
+        }
+        .firstAlgoCellName, .secondAlgoCellName{
+            font-size: 12px;
+        }
+        .stepsPanel, .pathPanel{
+            padding-top: 0;
+            font-size: 12px;
+        }
+        
+        /* ui */
+        main{
+            margin-top: 0vh;
+        }
+        .vediTuttiGliAlgoritmiContainer{
+            right: 40px;
+            bottom: 20px;
+            left: auto;
+            width: auto;
+        }
+        .vediTuttiGliAlgoritmiContainer > a{
+            font-size: 12px;
+            text-decoration: none;
+        }
+        .leftPart, .rightPart{
+            margin-top: 30px;
+            width: 50%;
+            height: 80%;
+        }
+
+        @media (min-height: 415px) and (max-height: 650px) {
+            .banner{
+                display: none;
+                visibility: hidden;
+            }
+
+            .infoOnLoad{
+                top: 50px;
+                height: 400px;
+            }
+            .maze{
+                width: 250px;
+                height: 250px;
+            }
+            .afterTestInfo{
+                top: 35px;
+                width: 60%;
+                left: 20%;
+                height: 230px;
+            }
+            .titleLine{
+                margin-top: 50px;
+            }
+            
+        }
+
+        @media (min-height: 391px) and (max-height: 414px) {
+            .banner{
+                display: none;
+                visibility: hidden;
+            }
+            .infoOnLoad{
+                top: 50px;
+                height: 400px;
+            }
+            .titleLine{
+                margin-top: 50px;
+            }
+            .voceInfo{
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+            .maze{
+                width: 250px;
+                height: 250px;
+            }
+            .afterTestInfo{
+                top: 35px;
+                width: 60%;
+                left: 20%;
+                height: 230px;
+            }
+            .controls{
+                bottom: 0;
+            }
+            .leftPart, .rightPart{
+                margin-top: 10px;
+                width: 50%;
+                height: 60%;
+            }
+        }
+        
+        @media (min-height: 321px) and (max-height: 390px) {
+            .banner{
+                display: none;
+                visibility: hidden;
+            }
+            .infoOnLoad{
+                top: 10px;
+                height: 300px;
+            }
+            .titleLine{
+                margin-top: 100px;
+            }
+            .voceInfo{
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+            .maze{
+                width: 220px;
+                height: 220px;
+            }
+            .afterTestInfo{
+                top: 20px;
+                width: 60%;
+                left: 20%;
+                height: 230px;
+            }
+            .firstResultPanel, .secondResultPanel{
+                margin-top: auto;
+                height: 70px;
+            }
+
+            .leftPart, .rightPart{
+                margin-top: 10px;
+                width: 50%;
+                height: 60%;
+            }
+            .controls{
+                bottom: 0;
+            }
+        }
+
+        @media (min-height: 0) and (max-height: 320px) {
+            .banner{
+                display: none;
+                visibility: hidden;
+            }
+            .infoOnLoad{
+                top: 20px;
+                height: 300px;
+            }
+            .voceInfo{
+                margin-top: 12px;
+                margin-bottom: 12px;
+            }
+            .titleLine{
+                margin-top: 200px;
+            }
+            .maze{
+                width: 180px;
+                height: 180px;
+            }
+            .leftPart, .rightPart{
+                margin-top: 10px;
+                width: 50%;
+                height: 60%;
+            }
+            .menuMobile{
+                position: absolute;
+                bottom: 0px;
+            }
+            .controls{
+                bottom: 0;
+            }
+            
+            .afterTestInfo{
+                top: 10px;
+                width: 60%;
+                left: 20%;
+                height: 180px;
+            }
+            .firstResultPanel, .secondResultPanel{
+                margin-top: auto;
+            }
+            .afterTestInfosLine{
+                margin-bottom: 10px;
+            }
+        }
+        
+    }
+    
+}

@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Algoritms</title>
+
+        <link rel="icon" type="image/ico" href="./icons/logo.png">
+        <link rel="stylesheet" href="./css/allAlgoritms.css">
+        <link rel="stylesheet" href="./css/banners.css">
+
+        
+    </head>
+    <body>
+
+        <div class="rotateNotification flexCenter">
+            <ion-icon name="phone-landscape-outline"></ion-icon>
+        </div>
+
+        <div class="banner flexCenter">
+            <div class="bannerTop flexCenter">
+                <div class="logoUnipr">
+                    <a href="https://corsi.unipr.it/cdl-info" target="_blank">
+                        <img src="./icons/logo.svg" alt="logo unipr">
+                    </a>
+                </div>
+                <div class="infoText flexCenter">
+                    <p class="infoText1">
+                        Corso di Laurea in 
+                    </p>
+                    <p class="infoText2">
+                        Informatica
+                    </p>
+                </div>
+            </div>
+            <div class="bannerBottom flexCenter">
+                <p>
+                    DIPARTIMENTO SCIENZE MATEMATICHE, FISICHE E INFORMATICHE
+                </p>
+            </div>
+        </div>
+
+        <main class="flexCenter">
+            <!-- algoritmo -->
+            <div class="flexCenter line">
+                <div class="flexCenter left">
+                    <h2>Cos'è un algoritmo?</h2>
+                    <div class="pLeft">
+                        Informalmente, un <b>algoritmo</b> è una procedura di calcolo ben definita, 
+                        che prende uno o più valori come <b>input</b> e, da questi, 
+                        restituisce uno o più valori come <b>output</b>.
+                        <br><br>
+                        Un algoritmo può essere considerato come uno strumento per risolovere un 
+                        <b>problema computazionale</b> ben definito.
+                        <br><br>
+                        Quindi un algoritmo può essere considerato come una <b>sequenza finita</b> di <b>passi</b> 
+                        che permette di risolvere un determinato <b>problema</b>.
+                    </div>
+                </div>
+                <div class="flexCenter right">
+                    <img class="schemaAlgoritmo"src="./sources/algoritmo.png" alt="schema algoritmo">
+                </div>
+            </div>
+            <!-- pseudo codice -->
+            <div class="flexCenter line">
+                <div class="flexCenter left">
+                    <h2>Lo pseudocodice</h2>
+                    <div class="pLeft">
+                        Lo <b>pseudocodice</b> è un "<b>liguaggio</b> intermedio" tra la lingua 
+                        parlata e il linguaggio di programmazione vero e proprio, ed è utilizzato 
+                        per scrivere-progettare-modificare gli algoritmi prima di scriverlo 
+                        in un linguaggio di programmazione vero e proprio.
+                    </div>
+                </div>
+                <div class="flexCenter right">
+                    <div class="pLeft">
+                        <h4>Perché si utilizza?</h4>
+                        <br>
+                        Perché non è legato a <b>nessun vincolo</b> riguardante il linguaggio di programmazione da utilizzare e 
+                        l'hardware (componenti fisiche conmpongono il computer).
+                        <br><br>
+                        A seguire gli pseudocodici degli algoritmi si troveranno nella parte di destra.
+                    </div>
+                </div>
+            </div>
+            <!-- bfs -->
+            <div class="flexCenter line">
+                <div class="left flexCenter">
+                    <h2>Breath First Search</h2>
+                    <div class="pLeft">
+                        La breath first search(bfs) o <b>visita in ampiezza</b> è un algoritmo di ricerca, 
+                        che calcola la distanza da un <b>punto di partenza S</b> a un <b>punto di arrivo D</b>, gli <b>input</b>.
+                        <br><br>
+                        L'algoritmo sfrutta i colori per capire se una cella/posizione non è stata mai vista dall'algoritmo(white), 
+                        se è tra le prossime ad essere visitate/attraversate (grey) o se è già stata attraversata (black).
+                        <br>
+                        Dopo che ha visitato una cella "mette in coda" (grey) le vicine di quest'ultima, 
+                        prosegue così finché o non trova un cammino dal punto S al punto D o ci sono delle celle visitabili.
+                        <br>
+                        Al termine se è presente un <b>cammino o percorso</b> dal punto S a punto D, questo verrà restituito come <b>output</b>.
+                        <br><br>
+                        Questo algoritmo <b>garantisce</b>(se presente) uno dei possibili <b>cammini minimi</b>.
+                    </div>
+                </div>
+                <div class="right flexCenter">
+                    <p>
+                        <code>
+                            procedure BFS(G, s, d):
+                            <br>
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            for each vertex u &#8712; G.V - {s} do:
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.color = WHITE
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.d = &infin;
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.&pi; = NIL
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            s.color = GREY
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            s.d = 0
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            s.&pi; = NIL
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            Q = Queue = {}
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            enqueue(Q, s)
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            while Q &ne; {} do:
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                u = dequeue(Q)
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                if s == d then:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    break
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                for each v &#8712; G.Adj[u] do:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    if v.color == WHITE then:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        u.color = GREY
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        u.d = u.d + 1
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        u.&pi; = u
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        enqueue(Q, v)
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.color = BLACK
+
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            PRINT-PATH(G, s, d)
+                            
+                            <br>
+                            <br>
+                            end procedure
+                        </code>
+                    </p>
+                </div>
+            </div>
+
+
+            <!-- dfs -->
+            <div class="flexCenter line">
+                <div class="left flexCenter">
+                    <h2>Deep First Search</h2>
+                    <div class="pLeft">
+                        La deep first search(dfs) o <b>visita in profondità</b> è un algoritmo di ricerca, 
+                        che calcola la distanza da un <b>punto di partenza S</b> a un <b>punto di arrivo D</b>, gli <b>input</b>.
+                        <br><br>
+                        L'algoritmo sfrutta i colori per capire se una cella/posizione non è stata mai vista dall'algoritmo(white), 
+                        se è tra le prossime ad essere visitate/attraversate (grey) o se è già stata attraversata (black) ed è "diviso" 
+                        in 2 "parti".
+                        <br><br>
+                        Dopo che ha visitato una cella la "mette in coda" e passa alle sue successive (che non sono mai state viste), quando dopo una cella 
+                        non ha più nulla in seguito, l'algortimo si muove a ritroso nelle celle che aveva lasciato in attesa (grey).
+
+                        <br>
+                        Al termine se è presente un <b>cammino o percorso</b> dal punto S a punto D, questo verrà restituito come <b>output</b>.
+                        <br><br>
+                        Questo algoritmo <b><u>non</u> garantisce</b>(se presente) un <b>cammino minimo</b>.
+                    </div>
+                </div>
+                <div class="right flexCenter">
+            
+                    <p>
+                        <code>
+                            procedure DFS(G, s, d):
+                            <br>
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            for each vertex u &#8712; G.V - {s} do:
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.color = WHITE
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.&pi; = NIL
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            time = 0
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            for each vertex u &#8712; G.V - {s} do:
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            if u.color == WHITE then:
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                DFS-VISIT(G, u)
+                            <br><br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            PRINT-PATH(G, s, d)
+                            <br>
+                            <br>
+                            end procedure
+                        </code>
+                    </p>
+                    
+                    <p>
+                        <code>
+                            procedure DFS-VISIT(G, u):
+                                <br>
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                time = time + 1
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.d = time
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.color = GREY
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                for each v &#8712; G.Adj[u] do:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    if v.color == WHITE then:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        v.&pi; = u
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        DFS-VISIT(G, v)
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.color = BLACK
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                time = time + 1
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                u.f = time
+                            <br>
+                            <br>
+                            end procedure
+                        </code>
+                    </p>
+                    
+                </div>
+            </div>
+
+            <div class="flexCenter line">
+                <div class="left flexCenter">
+                    <h2>Print Path</h2>
+                    <div class="pLeft">
+                        L'algoritmo printh path, si occupa di restituire la <b>sequenza ordinata</b> 
+                        di celle/posizione ottenute da un algoritmo di ricerca.
+                    </div>
+                </div>
+                <div class="right flexCenter">
+                    <p>
+                        <code>
+                            procedure PRINT-PATH(G, s, d):
+                                <br>
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                if d == s then:
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    print s
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                else if v.&pi; == NIL then:
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    print "non ci sono cammini da 's' a 'd'"
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                else:
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                PRINT-PATH(G, s, d.&pi;)
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                print v
+                            <br>
+                            <br>
+                            end procedure
+                        </code>
+                    </p>
+                </div>
+            </div>
+
+            <!-- A* -->
+            <div class="flexCenter line">
+                <div class="left flexCenter">
+                    <h2>A*</h2>
+                    <div class="pLeft">
+                        L'algoritmo A* (A star) è un algoritmo di ricerca da in punto S a un punto D, che garantisce un percorso minimo come la bfs, però 
+                        è più complesso perché sfrutta delle "stime euristiche" per calcolare la mossa migliore da fare.
+                        <br><br>
+                        Questo è un esempio di ricerca <b>best-first</b>, cioè una <b>strategia</b> di ricerca informata.
+                        <br><br>
+                        Essendo di tipo "best-first", l'algoritmo tenderà ad esplorare le celle/posizioni <b>più vicine alla destinazione</b>.
+
+                        <br><br>
+                        Questo algoritmo <b>garantisce</b>(se presente) uno dei possibili <b>cammini minimi</b>.
+                    
+                    </div>
+                </div>
+                <div class="right flexCenter">
+                    <p>
+                        <code>
+                            procedure A*(G, s, d)
+            
+                                <br>
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                for each vertex u &#8712; G.V do:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    u.g_score = + &infin;
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    u.f_score = + &infin;
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    u.&pi; = NIL
+            
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                s.g_score = 0
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                s.f_score = Euclidean-Distance(s, d)
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                open_list = PriorityQueue = {}
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+            
+                                closed_list = List
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                open_list.enqueue(s, s.f_score)
+                                <br><br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                
+                                while open_list &ne; {} do:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    current = open_list.dequeue_less_priority()
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    if current == d then:
+                                        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        return PRINT-PATH(G, s, d)
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    closed_list.push(current)
+                                    <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    for each neighbor &#8712; G.Adj[u] do:
+                                        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        tentative_score = current.g_score + Euclidean-Distance(current, neighbor)
+                                        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        if tentative_score < neighbor.g_score:
+                                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            neighbor.&pi; = current
+                                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            neighbor.g_score = tentative_score
+                                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            neighbor.f_score = tentative_score + Euclidean-Distance(neighbor, d)
+                                            <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            if neighbor not in open_list and neighbor not in closed_list:
+                                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                open_list.enqueue(neighbor, neighbor.f_score)
+                                
+                                <br><br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                return "No path found"
+                            <br>
+                            <br>
+                            end procedure
+                        </code>
+                    </p>
+                </div>
+            </div>
+
+            <div class="flexCenter line">
+                <div class="left flexCenter">
+                    <h2>Faster A*</h2>
+                    <div class="pLeft">
+                        L'algoritmo faster A* (A star più veloce) è un algoritmo di ricerca da in punto S a un punto D.
+
+                        <br><br>
+                        Ha una struttura molto simile all'algoritmo A*, ma a differenza di quest'ultimo non tiene in considerazione 
+                        la distanza con la posizione di partenza.
+                        <br><br>
+                        Questo algoritmo <b><u>non</u> garantisce</b>(se presente) un <b>cammino minimo</b>.
+                    </div>
+                </div>
+                <div class="right flexCenter">
+                    <p>
+                        <code>
+                            procedure Faster-A*(G, s, d)
+                                <br>
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                for each vertex u &#8712; G.V do:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    u.g_score = + &infin;
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    u.f_score = + &infin;
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    u.&pi; = NIL
+            
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                s.g_score = 0
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                s.f_score = Euclidean-Distance(s, d)
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                open_list = PriorityQueue = {}
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+            
+                                closed_list = List
+                                <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                open_list.enqueue(s, s.f_score)
+                                <br><br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                
+                                while open_list &ne; {} do:
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    current = open_list.dequeue_less_priority()
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    if current == d then:
+                                        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        return PRINT-PATH(G, s, d)
+                                    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    closed_list.push(current)
+                                    <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    for each neighbor &#8712; G.Adj[u] do:
+                                        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        tentative_score = current.g_score + Euclidean-Distance(current, neighbor)
+                                        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        if tentative_score < neighbor.g_score:
+                                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            neighbor.&pi; = current
+                                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            neighbor.g_score = tentative_score
+                                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            neighbor.f_score = tentative_score + Euclidean-Distance(neighbor, d)
+                                            <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            if neighbor not in open_list and neighbor not in closed_list:
+                                                <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                open_list.enqueue(neighbor, Euclidean-Distance(neighbor, d))
+                                
+                                <br><br>&nbsp;&nbsp;&nbsp;&nbsp;
+                                return "No path found"
+                            <br>
+                            <br>
+                            end procedure
+                        </code>
+                    </p>
+                </div>
+            </div>
+            <div class="flexCenter line">
+                <div class="left flexCenter">
+                    <h2>Euclidean Distance</h2>
+                    <div class="pLeft">
+                        Questo algoritmo è un algoritmo di "supporto", utilizzato per calcolare la distanza tra 2 punti, p1 e p2, 
+                        nello spazio, a partire dalle loro coordinate cartesiane.
+                        <br><br>
+                        La distanza tra questi due punti è dato dalla radice quadrata della somma dei quadrati 
+                        delle differenze tra le ordinate dei due punti
+                    </div>
+                    <img src="./sources/distanzaDuePunti.png" alt="formula" class="formulaDistanza">
+                </div>
+                <div class="right flexCenter">
+                    <p>
+                        <code>
+                            procedure Euclidean-Distance(p1, p2)
+                            <br>
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            x_pow = pow(p2.x - p1.x, 2)
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            y_pow = pow(p2.y - p1.y, 2)
+                            <br>
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                            return sqrt(x_pow + y_pow)
+                            <br>
+                            <br>
+                            end procedure
+                        </code>
+                    </p>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+        </main>
+        
+        <!-- icons -->
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    </body>
+</html>
