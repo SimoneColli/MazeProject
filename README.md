@@ -17,6 +17,7 @@ This application has been developed on the occasion for the **European Researche
 - Faster A*, a reinterpretation of A* algorithm that is faster but does not guarantee the shortest path
 
 <br>
+
 ##### *Programming languages used*
 
 - HTML
