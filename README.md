@@ -2,7 +2,7 @@
 <br>
 
 
-_https://github.com/SimoneColli/MazeProject_
+_https://simonecolli.github.io/MazeProject/_
 <br>
 <br>
 ## *Informations*
