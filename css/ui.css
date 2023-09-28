@@ -50,9 +50,8 @@ main{
 
 .vediTuttiGliAlgoritmiContainer{
     position: absolute;
-    width: 20vw;
-    bottom: 30px;
-    left: 40vw;
+    bottom: 32px;
+    right: 120px;
 }
 
 .vediTuttiAlgoritmi{

@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="it">
     <head>
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TDW456FXLT"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-TDW456FXLT');
-        </script>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,7 +19,7 @@
         <link rel="stylesheet" href="./css/banners.css">
 
     </head>
-    
+
     <body>
 
         <!-- 
@@ -396,6 +387,7 @@
                                 <option value="dfs">DFS</option>
                                 <option value="aStar">A*</option>
                                 <option value="aStarFaster">A* +</option>
+                                <!-- <option value="aStarFasterPerc">A* %</option> -->
                             </select>
                         </div>
                         <div class="controlsSeparator">
@@ -418,7 +410,7 @@
                         <div class="sizeLine flexCenter">
                             <ion-icon name="expand-outline" class="expandIcon"></ion-icon>
                             <select id="dim2" name="dim2" class="dim">
-                                <option value="3">3</option>
+                                <!-- <option value="3">3</option> -->
                                 <option value="5">5</option>
                                 <option value="10">10</option>
                                 <option value="15" selected>15</option>
@@ -438,6 +430,7 @@
                                 <option value="dfs">DFS</option>
                                 <option value="aStar">A*</option>
                                 <option value="aStarFaster">A* +</option>
+                                <!-- <option value="aStarFasterPerc">A* %</option> -->
                             </select>
                         </div>
                         <div class="controlsSeparator">
@@ -481,6 +474,7 @@
                                 <option value="dfs">DFS</option>
                                 <option value="aStar">A*</option>
                                 <option value="aStarFaster">A* +</option>
+                                <!-- <option value="aStarFasterPerc">A* %</option> -->
                             </select>
                             <!-- <ion-icon name="hardware-chip-outline" class="vs algoritmIcon"></ion-icon> -->
                             <p class="vs">vs</p>
@@ -489,6 +483,7 @@
                                 <option value="dfs" selected>DFS</option>
                                 <option value="aStar">A*</option>
                                 <option value="aStarFaster">A* +</option>
+                                <!-- <option value="aStarFasterPerc">A* %</option> -->
                             </select>
                             
                         </div>
@@ -606,14 +601,10 @@
         <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
         <!-- jquery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-        
-        
-        
+
         <!-- js -->
         
-        <script src="./script/Classes.js"></script>
-
-        <script src="./script/Core.js"></script>
+        <script src="./script/load.js"></script>
         
     </body>
 </html>

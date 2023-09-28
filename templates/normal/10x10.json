@@ -1,0 +1,10082 @@
+[
+	{
+		"begin": "8-10",
+		"end": "10-10",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		}
+	},
+	{
+		"begin": "10-3",
+		"end": "1-6",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "1-10",
+		"end": "10-1",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:10-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "8-10",
+		"end": "3-1",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "1-1",
+		"end": "10-1",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "10-5",
+		"end": "1-10",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "10-4",
+		"end": "1-7",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "7-1",
+		"end": "6-10",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "10-8",
+		"end": "1-1",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:1-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "10-2",
+		"end": "3-10",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:4-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "10-10",
+		"end": "1-3",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		}
+	},
+	{
+		"begin": "1-3",
+		"end": "10-7",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "10-7",
+		"end": "1-9",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:1-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "10-2",
+		"end": "1-5",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "6-10",
+		"end": "1-6",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:1-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "8-10",
+		"end": "3-1",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:3-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "8-1",
+		"end": "3-10",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "3-10",
+		"end": "10-3",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:10-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "9-1",
+		"end": "3-10",
+		"i:1-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		}
+	},
+	{
+		"begin": "1-1",
+		"end": "10-9",
+		"i:1-j:1": {
+			"valid": 0,
+			"start": 1,
+			"end": 0
+		},
+		"i:1-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:1-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:2-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:9": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:3-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:5": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:4-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:5-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:6-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:2": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:7-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:3": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:8-j:10": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:1": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:4": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:6": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:7": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:8": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:9-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:1": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:2": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:3": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:4": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:5": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:6": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:7": {
+			"valid": 0,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:8": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		},
+		"i:10-j:9": {
+			"valid": 0,
+			"start": 0,
+			"end": 1
+		},
+		"i:10-j:10": {
+			"valid": 1,
+			"start": 0,
+			"end": 0
+		}
+	}
+]
