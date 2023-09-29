@@ -69,8 +69,7 @@ class Computer{
                 clearInterval(timer2);
                 each++;
                 setTimeout( ()=>{
-                    if(each == 2)
-                        timer3 = setInterval(func3, timers.shift());
+                    timer3 = setInterval(func3, timers.shift());
                 }, 3000)
             }else if(this.timerRun == false){
                 clearInterval(timer2);
