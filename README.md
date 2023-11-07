@@ -45,3 +45,10 @@ _images: &copy; Vincenzo Bonnici, Simone Colli_
 _icons: https://ionic.io/ionicons_
 
 _UniPr website: https://www.unipr.it_
+
+### Donations
+
+<a href="https://paypal.me/SimoColli?country.x=IT&locale.x=it_IT" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/%40simonecolli-3558C1?style=flat&logo=paypal&link=https://paypal.me/SimoColli?country.x=IT&locale.x=it_IT">
+</a>
+
